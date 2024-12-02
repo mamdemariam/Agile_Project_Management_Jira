@@ -60,4 +60,4 @@ This project serves as a demonstration of my ability to plan and manage an Agile
 
 ---
 
-*For more information or to collaborate, feel free to reach out or visit my LinkedIn profile: [LinkedIn Profile](https://linkedin.com/in/mikael-amdemariam-tadesse).*
+*For more information or to collaborate, feel free to reach out or visit my [LinkedIn Profile](https://linkedin.com/in/mikael-amdemariam-tadesse).*
