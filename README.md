@@ -45,7 +45,7 @@ This repository demonstrates a project planning exercise using Jira. Below are t
 
 ### Accessing the Jira Project
 - To access the detailed project board, you need to be logged into Jira.
-- View [Jira Project](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3))
+- View [Jira Project](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3)
 
 ### How to Navigate the Project
 - **Sprints and User Stories**: This project includes several sprints, each containing user stories that outline the features and tasks planned for development and testing.
