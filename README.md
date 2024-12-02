@@ -41,11 +41,11 @@ I will share this project on my [LinkedIn profile](https://linkedin.com/in/mikae
 This repository demonstrates a project planning exercise using Jira. Below are the key steps to understand how the project is managed and structured:
 
 ### Project Overview
-- **Project Management Tool**: The project can be viewed at [Jira Site Link](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3). Access is limited to allow visibility for all while restricting editing permissions to authorized users only.
+- **Project Management Tool**: The project can be viewed at [Jira Project](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3). Access is limited to allow visibility for all while restricting editing permissions to authorized users only.
 
 ### Accessing the Jira Project
 - To access the detailed project board, you need to be logged into Jira.
-- [View Jira Project](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3))
+- View [Jira Project](https://mamdemariam.atlassian.net/jira/software/c/projects/TDL/boards/3))
 
 ### How to Navigate the Project
 - **Sprints and User Stories**: This project includes several sprints, each containing user stories that outline the features and tasks planned for development and testing.
