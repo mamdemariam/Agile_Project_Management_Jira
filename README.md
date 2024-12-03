@@ -49,6 +49,7 @@ This repository demonstrates a project planning exercise using Jira. Below are t
 
 ### How to Navigate the Project
 - **Sprints and User Stories**: This project is organized into multiple sprints, each containing user stories that outline the features and functionalities planned for development and testing. These user stories describe the goals and actions needed to complete each sprint successfully.
+- **Subtasks**: Each user story is broken down into specific subtasks to ensure clarity and better project management. Subtasks represent smaller, actionable items that need to be completed as part of the larger user story. These can include development tasks, QA testing, documentation, and integration checks.
 
 ### Notes for Contributors
 - If you're planning to use this project as part of your learning or portfolio, please ensure that you have access to Jira or contact the project owner for potential access.
